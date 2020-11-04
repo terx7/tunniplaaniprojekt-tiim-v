@@ -2,10 +2,6 @@
 Käesolev projekt on 04.11-06.11.2020 Kuressaare Ametikooli projektipäevade raames valminud tarkvaraarenduse õpilaste tiimitöö tulemus.
 
 ## Meeskond
-**Juht:**
-Peeter Pakiraam
-
-**LIIKMED:**
 ### JavaScripti tiim
 Karl-Mihkel Truu TA-20 / Mattias Kaerma TA-20 / Erki Leemet TAK-19 / Kenneth Lember
 
