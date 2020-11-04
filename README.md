@@ -6,6 +6,7 @@ Käesolev projekt on 04.11-06.11.2020 Kuressaare Ametikooli projektipäevade raa
 Peeter Pakiraam
 
 **LIIKMED:**
+<<<<<<< HEAD
 ### JavaScripti tiim
 Karl-Mihkel Truu TA-20 / Mattias Kaerma TA-20 / Erki Leemet TAK-19 / Kenneth Lember
 
@@ -14,6 +15,9 @@ Jennifer Tarvis / Janar Kuusk / Joonas Püüding
 
 ### Figma tiim
 Kadi Remmelgas-Luka TA-20 / Kris-Kristofer Burk TAK-18 / Risto Siimer
+=======
+Karl-Mihkel Truu TA-20 / Kadi Remmelgas-Luka TA-20 / Mattias Kaerma TA-20 / Kris Kristofer Burk TAK-18 / Erki Leemet TAK-19 / Jennifer Tarvis / Janar Kuusk / Joonas Püüding / Risto Siimer / Kenneth Lember
+>>>>>>> 7b58207997a7fc2bd81e7930a44f20ed90e5171c
 
 ## Projekti lähteülesanne
 Wireframe põhjal luua töötav tunniplaani mobiilivaade.
