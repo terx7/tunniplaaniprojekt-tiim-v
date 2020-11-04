@@ -6,7 +6,7 @@ Käesolev projekt on 04.11-06.11.2020 Kuressaare Ametikooli projektipäevade raa
 Peeter Pakiraam
 
 **LIIKMED:**
-Karl-Mihkel Truu TA-20 / Kadi Remmelgas-Luga TA-20 / Mattias Kaerma TA-20 / Kris Kristofer Burk TAK-18 / Erki Leemet TAK-19 / Jennifer Tarvis / Janar Kuusk / Joonas Püüding / Risto Siimer / Kenneth Lember
+Karl-Mihkel Truu TA-20 / Kadi Remmelgas-Luka TA-20 / Mattias Kaerma TA-20 / Kris Kristofer Burk TAK-18 / Erki Leemet TAK-19 / Jennifer Tarvis / Janar Kuusk / Joonas Püüding / Risto Siimer / Kenneth Lember
 
 ## Projekti lähteülesanne
 Wireframe põhjal luua töötav tunniplaani mobiilivaade.
